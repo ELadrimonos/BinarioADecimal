@@ -1,0 +1,3 @@
+C:/Users/julio/CLionProjects/BinarioADecimal/cmake-build-debug/CMakeFiles/BinarioADecimal.dir
+C:/Users/julio/CLionProjects/BinarioADecimal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julio/CLionProjects/BinarioADecimal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
